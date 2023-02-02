@@ -1,0 +1,4 @@
+IR模拟器需要依赖Qt运行环境，首先保证Linux系统安装好Qt运行环境
+sudo apt-get install python-qt4
+然后切换到irsim目录下，使用python2解释器运行irsim.pyc字节码文件即可
+python irsim.pyc
